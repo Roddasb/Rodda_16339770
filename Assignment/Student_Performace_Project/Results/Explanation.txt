@@ -1,0 +1,11 @@
+Average Scores Based on Test Preparation Course (Bar Chart): This visualization makes it easier to compare the performance of students who completed the test preparation course with those who did not across multiple subjects. It provides a clear overview of the impact of test preparation on average scores.
+
+Percentage of Female vs Male Students with Scores > 80 in Math, Reading, and Writing (Pie Chart): This pie chart offers a straightforward comparison of the proportion of female and male students who achieved high scores (>80) in math, reading, and writing. It helps identify gender disparities in academic performance.
+
+Reading Score By Race (Box Plot): The box plot simplifies the analysis of reading scores across different racial and ethnic groups by providing a visual summary of the central tendency, spread, and outliers within each group. It facilitates the comparison of reading performance among diverse student populations.
+
+Correlation Heatmap (Heatmap): This heatmap enables the easy identification of correlations between math, reading, and writing scores. By visualizing the strength and direction of these relationships, it helps uncover patterns and associations among academic performance metrics.
+
+Distribution of Preparation Levels Based on Gender (Stacked Bar Chart): This stacked bar chart aids in understanding the distribution of test preparation course completion among male and female students. It simplifies the comparison of participation rates between genders, allowing for insights into potential gender-based disparities in access to academic resources.
+
+Average Scores By Race/Ethnicity (Scatter Plot): The scatter plot facilitates the analysis of average scores across racial or ethnic groups by providing a visual representation of performance trends. It enables the easy identification of group-level differences and patterns in academic achievement
